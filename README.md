@@ -26,7 +26,7 @@
 2. Install the required Go dependencies:
 
    ````bash
-   go mod download
+   go mod tidy
    ```
 
 ## Usage
